@@ -25,3 +25,4 @@ headerElement.innerText = 'Here is the ' + chosenAnimal + '!'
 // Update the image
 const animalImage = document.querySelector('#animal-img');
 animalImage.src = './assets/warhol-' + chosenAnimal + '.png';
+console.log(animalImage.src);
