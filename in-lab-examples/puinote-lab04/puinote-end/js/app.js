@@ -83,3 +83,4 @@ for (let i=1; i<4; i++) {
     notecards[i-1].updateElement();
   }
 }
+
